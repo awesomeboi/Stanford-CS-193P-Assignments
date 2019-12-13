@@ -1,5 +1,4 @@
-# Stanford-CS-193P-Assignments
-I will add my Assignments to this repository.
+# Stanford-CS-193P-Assignment-1
 
 This is the Assignment-1. Concentration Game. 
 
