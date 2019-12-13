@@ -26,4 +26,4 @@ iPhone X.
 I import every task one by one. I think the most hard part of this Assignment is the score part. 
 It takes so much time for me to create the penalty algorithm.
 
-
+![App Screenshot](/Assignment-1/ScreenShot/Screenshot.png)
